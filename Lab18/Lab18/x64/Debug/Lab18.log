@@ -1,0 +1,3 @@
+﻿  Lab18.cpp
+d:\os\lab18\lab18\lab18.cpp(83): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  Lab18.vcxproj -> D:\OS\Lab18\x64\Debug\Lab18.exe

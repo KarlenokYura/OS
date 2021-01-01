@@ -1,0 +1,3 @@
+﻿  SoProc.cpp
+d:\os\soproc\soproc\soproc.cpp(17): warning C4102: 'START': unreferenced label
+  SoProc.vcxproj -> D:\OS\SoProc\Debug\SoProc.exe
